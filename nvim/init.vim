@@ -1,0 +1,5 @@
+lua require('options')
+lua require('keymaps')
+lua require('plugins')
+lua require('colorscheme')
+lua require('lsp')
